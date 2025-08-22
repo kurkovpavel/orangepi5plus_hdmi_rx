@@ -4,4 +4,4 @@ Since hdmi_rx is not fullly compatible driver with v4l2, this example allows to 
 
 Compile: g++ main.cpp camera_hdmi.c -o hdmi_capture `pkg-config --cflags --libs opencv4` -lv4l2
 Left screen is feeded by orange pi 5 plus: hdmi rx in -> framebuffer -> hdmi tx out. Right screen is original source on hdmi rx in.
-![20250820_111933](https://github.com/user-attachments/assets/75c76e57-616c-44e0-9e6a-57a5dad1eaa4)
+![20250820_111933](https://github.com/user-attachments/assets/74ea231d-7ff8-4945-9839-c4e1992dfd37)
